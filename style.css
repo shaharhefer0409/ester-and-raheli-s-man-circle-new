@@ -183,6 +183,7 @@ a:hover {
   font-size: 1.1rem;
   line-height: 1.9;
   min-width: 300px;
+  width: 400px;
 }
 
 .about-intro {
@@ -406,6 +407,7 @@ a:hover {
 
   .about-text {
     min-width: auto;
+    width: auto;
     margin-top: 20px;
   }
 
